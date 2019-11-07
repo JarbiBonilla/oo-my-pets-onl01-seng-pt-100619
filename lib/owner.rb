@@ -7,7 +7,7 @@ class Owner
   end
   
   def say_species
-    self 
+    puts "I am a human."
   end
   
 end
