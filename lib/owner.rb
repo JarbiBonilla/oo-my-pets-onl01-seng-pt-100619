@@ -10,4 +10,5 @@ class Owner
     return "I am a human."
   end
   
+  def 
 end
